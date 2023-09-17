@@ -1,0 +1,12 @@
+
+  ________________maxValue1_instância_5000000_alvo_2712790_________________
+
+
+  Iterações: 10
+  Tempo Total: 63.46820 milisegundos | 0.00106 minutos 
+  Memória Total: 27176.00 bytes
+
+  Tempo médio: 6.34682 milisegundos | 0.00011 minutos
+  Memória média: 2717.60 bytes
+
+  
