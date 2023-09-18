@@ -1,0 +1,52 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add @types/stack-typescript
+
+PATH: 
+  C:\Program Files\PowerShell\7;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Amazon Corretto\jdk17.0.6_10\bin;C:\maven\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\PowerShell\7\;C:\Program Files\MATLAB\R2023a\bin;C:\Users\marci\scoop\shims;C:\Users\marci\AppData\Local\Microsoft\WindowsApps;C:\Users\marci\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\marci\AppData\Local\GitHubDesktop\bin;C:\Users\marci\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.3\bin;C:\Program Files\heroku\bin;C:\Users\marci\AppData\Local\Yarn\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;C:\Users\marci\AppData\Local\Programs\MiKTeX\miktex\bin\x64\
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.13.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/@types%2fstack-typescript: Not found
+      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66145:18)
+      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140890:22)
+      at Request.emit (node:events:390:28)
+      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141862:10)
+      at Request.emit (node:events:390:28)
+      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141784:12)
+      at Object.onceWrapper (node:events:509:28)
+      at IncomingMessage.emit (node:events:402:35)
+      at endReadableNT (node:internal/streams/readable:1343:12)
+      at processTicksAndRejections (node:internal/process/task_queues:83:21)
+
+npm manifest: 
+  {
+    "name": "algorithm-lab",
+    "version": "1",
+    "description": "1",
+    "main": "1",
+    "scripts": {
+      "roll": "node ./lab.mjs"
+    },
+    "keywords": [],
+    "author": "1",
+    "license": "1",
+    "dependencies": {
+      "md-to-pdf": "^5.2.4"
+    },
+    "repository": "1",
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

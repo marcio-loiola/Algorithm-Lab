@@ -1,15 +1,17 @@
 {
   "name": "algorithm-lab",
-  "version": "1.0.0",
-  "description": "Code and reports created in the 'Algorithms Laboratory' course: experiments and analysis of the complexity of key classical algorithms.",
-  "main": "lab.js",
+  "version": "1",
+  "description": "1",
+  "main": "1",
   "scripts": {
     "roll": "node ./lab.mjs"
   },
   "keywords": [],
-  "author": "Jonas Fortes",
-  "license": "ISC",
+  "author": "1",
+  "license": "1",
   "dependencies": {
     "md-to-pdf": "^5.2.4"
-  }
+  },
+  "repository": "1",
+  "private": true
 }

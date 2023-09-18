@@ -1,0 +1,12 @@
+
+  ________________maxValue2-new_instância_100000_alvo_4137_________________
+
+
+  Iterações: 10
+  Tempo Total: 3.71580 milisegundos | 0.00006 minutos 
+  Memória Total: 51952.00 bytes
+
+  Tempo médio: 0.37158 milisegundos | 0.00001 minutos
+  Memória média: 5195.20 bytes
+
+  
